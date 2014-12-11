@@ -1,0 +1,19 @@
+{
+  "name": "md-alike",
+  "version": "1.0.0",
+  "description": "Ensure that the structure of two markdown files is identical",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "Pat Cavit <pcavit@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "object-path": "^0.8.1",
+    "remarkable": "^1.4.2",
+    "traverse": "^0.6.6"
+  }
+}
